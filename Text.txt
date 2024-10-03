@@ -1,0 +1,3 @@
+Implement a scoring system based on the number of commands used
+the time taken to complete each level
+or the number of attempts.
